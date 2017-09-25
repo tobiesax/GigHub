@@ -1,0 +1,71 @@
+GitHub is a mini social network that makes it 
+really easy for live music lovers to track the gigs of
+their favourite artists.
+
+
+
+Artists can sign up and list their gigs. When adding a gig, 
+they shpould specify 
+the date/time,location and genre of the gig.
+
+
+
+An artists should have a page called My upcoming gigs.
+From there, they should be able to edit or remove an 
+existing gig, or add another gig to the list.
+
+
+
+User should be able to view upcoming gigs or search them
+ be artist, genre or location. they should be able to view 
+details of a gig and add it to their calendar.
+
+
+
+Additionally, users should be able to follow their 
+favourite artists. 
+When they follow an artist, they should see the 
+upcoming gigs of their favourite artists 
+in the Gig Feed.   
+
+
+Use cases 
+
+1. A page for Artist to signup and List thier Gigs.( location/Time/Genre)
+ 
+2. A page for Artist called My Upcoming Gigs, They should be able to Add/ Edit/Remove/existing or outdated Gig details
+
+3. User should be able to search by artist and view details of their upcoming gigs by genre/location/time and also add them, to their calendar
+
+4. Users should be able to follow their fovourite artist/see their upcoming Gigs in thier Gig Feed.
+
+
+
+
+Authetication: Signup
+               Login
+               LogOut
+               Change Password
+               Edit Profile
+
+
+GiG           Add a gig
+              My upcoming gigs(for artist)
+              Edit a gig
+              Remove a gig
+              View all upcoming gigs
+              Search
+              View gig details
+              
+Gig Calender Add a gig to calender
+             Remove a gig from calender
+             View gigs I'm attending
+
+
+
+Following   Follow an artist
+            Unfollow an artist
+            Who I'm following
+            Gig Feed
+
+
